@@ -1,0 +1,7 @@
+@import "tailwindcss";
+/* Custom global styles can go here */
+
+
+#right::-webkit-scrollbar {
+  display: none;
+}
